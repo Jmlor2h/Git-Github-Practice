@@ -17,7 +17,7 @@ input [type="text"] {
 label {
     color: gold;
     text-shadow: red 2px 2px 10px;
-    font-size: large;
+    font-size: 15px;
 }
 
 section {
