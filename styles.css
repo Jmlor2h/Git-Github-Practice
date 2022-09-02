@@ -26,7 +26,7 @@ section {
     justify-content: center;
     text-transform: capitalize;
     font-weight: bold;
-    margin-top: 200px;
+    margin-top: 50px;
 }
 
 input {
@@ -54,6 +54,16 @@ input [type="file"] {
     margin: auto;
     text-align: center;
     justify-content: center;
+    background-color: yellow;
 
     
+}
+
+h1 {
+    color: yellow;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 70px;
+    text-shadow: 4px 4px 12px red;
+    text-transform: capitalize;
 }
